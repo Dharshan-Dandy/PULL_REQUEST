@@ -1,0 +1,6 @@
+Hai,
+This is a Sample1.txt File Content .
+// In Sample1.txt 
+Fork the Repository: Visit the repository page on GitHub that you want to contribute to and click the "Fork" button in the upper-right corner. This will create a copy of the repository under your GitHub account.
+
+// finisih in Sample1.txt
