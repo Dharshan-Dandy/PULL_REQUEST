@@ -3,4 +3,11 @@ This is a Sample1.txt File Content .
 // In Sample1.txt 
 Fork the Repository: Visit the repository page on GitHub that you want to contribute to and click the "Fork" button in the upper-right corner. This will create a copy of the repository under your GitHub account.
 
-// finisih in Sample1.txt
+// finisih in Sample1.txt .
+
+
+
+// This changes is made in the Dandy-Dharshan (another account) ...........
+Congratulations! You have successfully created a pull request on GitHub.com. The repository's maintainers will now review your changes and provide feedback or merge them into the main branch if they find them suitable.
+
+/// Finished in (another account)........... .
